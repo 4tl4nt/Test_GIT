@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 Change from new test
-up
-=======
-Change for master 2
->>>>>>> master
